@@ -1,7 +1,10 @@
 ### SSL
-| Model Type | ResNet50 | ResNet101 | ResNet152 |
-|------------|----------|-----------|-----------|
-| SSL        | ✅       | ✅        | ✅        |
+| Model Type |          | ResNet50  | ResNet101 | ResNet152 |
+|------------|----------|-----------|-----------|-----------|
+|            |    1%    | [Download](https://kmitlthailand-my.sharepoint.com/:u:/g/personal/63609007_kmitl_ac_th/EV5FV4bveo1NqCjYeQmoR08B6GQcHaArWfzQTxGgYgxlqQ?e=hbRD5i)
+|SSL  BYOL   |----------|-----------|-----------|-----------|
+|            |    10%   |
+|------------|----------|-----------|-----------|-----------|
 
 ### SL
 | Model Type | ResNet50 | ResNet101 | ResNet152 |
